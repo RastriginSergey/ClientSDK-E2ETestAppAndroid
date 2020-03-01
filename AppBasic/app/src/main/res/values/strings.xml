@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">E2ETestAppBasic</string>
+    <string name="welcome_to_nexmo_client_e2e_test_app">Welcome to Nexmo Client E2E Test app</string>
+</resources>
